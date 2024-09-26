@@ -3,15 +3,11 @@
 
 **S4MU3L-22/S4MU3L-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Samuel Luis Friesen
 
-- 🔭 I’m currently working on my house
-- 🌱 I’m currently learning in Alura
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about airsoft guns
-- 📫 How to reach me: You can cannot
-- ⚡ Fun fact: I like airsoft
+- Estou estudano no 1° ano do ensino médio do Colégio Fritz Kliewer
+- Estou desenvolveno na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento os meus projetos desenvolvios
 
 samuel.friesen@escola.pr.gov.br
 
