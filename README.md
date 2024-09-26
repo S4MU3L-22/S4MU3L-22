@@ -9,6 +9,8 @@ Meu nome é Samuel Luis Friesen
 - Estou desenvolveno na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento os meus projetos desenvolvios
 
+  ## **Meu Contato** 📫
+
 samuel.friesen@escola.pr.gov.br
 
 ![](https://media1.tenor.com/m/_s0I489R1YAAAAAC/1985-bo-burnham.gif)
