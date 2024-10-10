@@ -17,6 +17,6 @@ samuel.friesen@escola.pr.gov.br
 
 https://editor.p5js.org/samuel.friesen/sketches/vvHTzwz8M
 
-![](https://media1.tenor.com/m/_s0I489R1YAAAAAC/1985-bo-burnham.gif)
-
 ![](https://tenor.com/pt-BR/view/banana-deer-gif-1346549025584764335)
+
+![](https://media1.tenor.com/m/_s0I489R1YAAAAAC/1985-bo-burnham.gif)
