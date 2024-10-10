@@ -17,5 +17,5 @@ samuel.friesen@escola.pr.gov.br
 
 https://editor.p5js.org/samuel.friesen/sketches/vvHTzwz8M
 
-![](<div class="tenor-gif-embed" data-postid="1346549025584764335" data-share-method="host" data-aspect-ratio="1.01633" data-width="100%"><a href="https://tenor.com/view/banana-deer-gif-1346549025584764335">Banana Deer GIF</a>from <a href="https://tenor.com/search/banana-gifs">Banana GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+![](https://tenor.com/pt-BR/view/banana-deer-gif-1346549025584764335)
 
